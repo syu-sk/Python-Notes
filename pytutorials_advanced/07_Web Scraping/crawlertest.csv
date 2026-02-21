@@ -1,0 +1,313 @@
+header,panel
+Mobile,Separate Desktop page with separate mobile and/or AMP
+Mobile,Separate Desktop page with AMP page as AMP and Mobile
+Mobile,Separate Desktop with different H1
+Mobile,Separate Desktop with different title
+Mobile,Separate Desktop with different wordcount
+Mobile,Separate Desktop with different links in
+Mobile,Separate Desktop with different links out
+Mobile,Separate Desktop which links to a mobile page not on the mobile subdomain
+Mobile,Separate Desktop with mobile and AMP which self canonicalises
+Mobile,Separate Mobile page not on the mobile subdomain
+Mobile,A dynamically served page
+Mobile,A responsive page
+Mobile,No mobile configuration
+Mobile,Other desktop page linking to the same mobile pages as other desktop
+Mobile,An AMP page which also has a dedicated mobile page
+Mobile,Responsive with AMP
+Mobile,AMP for responsive Page
+Mobile,No mobile configuration with AMP
+Mobile,AMP for no mobile configuration
+Mobile,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Mobile,AMP page as mobile self-referential
+Mobile,AMP page which self canonicalises
+Mobile,Separate Desktop with Meta Irregular Media Pixel Size
+Mobile,Separate Desktop with Response Header Alt
+Description Tags,Separate Desktop page with separate mobile and/or AMP
+Description Tags,Separate Desktop page with AMP page as AMP and Mobile
+Description Tags,Separate Desktop with different H1
+Description Tags,Separate Desktop with different title
+Description Tags,Separate Desktop with different wordcount
+Description Tags,Separate Desktop with different links in
+Description Tags,Separate Desktop with different links out
+Description Tags,Separate Desktop which links to a mobile page not on the mobile subdomain
+Description Tags,Separate Desktop with mobile and AMP which self canonicalises
+Description Tags,Separate Mobile page not on the mobile subdomain
+Description Tags,A dynamically served page
+Description Tags,A responsive page
+Description Tags,No mobile configuration
+Description Tags,Other desktop page linking to the same mobile pages as other desktop
+Description Tags,An AMP page which also has a dedicated mobile page
+Description Tags,Responsive with AMP
+Description Tags,AMP for responsive Page
+Description Tags,No mobile configuration with AMP
+Description Tags,AMP for no mobile configuration
+Description Tags,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Description Tags,AMP page as mobile self-referential
+Description Tags,AMP page which self canonicalises
+Description Tags,Separate Desktop with Meta Irregular Media Pixel Size
+Description Tags,Separate Desktop with Response Header Alt
+Encoding,Separate Desktop page with separate mobile and/or AMP
+Encoding,Separate Desktop page with AMP page as AMP and Mobile
+Encoding,Separate Desktop with different H1
+Encoding,Separate Desktop with different title
+Encoding,Separate Desktop with different wordcount
+Encoding,Separate Desktop with different links in
+Encoding,Separate Desktop with different links out
+Encoding,Separate Desktop which links to a mobile page not on the mobile subdomain
+Encoding,Separate Desktop with mobile and AMP which self canonicalises
+Encoding,Separate Mobile page not on the mobile subdomain
+Encoding,A dynamically served page
+Encoding,A responsive page
+Encoding,No mobile configuration
+Encoding,Other desktop page linking to the same mobile pages as other desktop
+Encoding,An AMP page which also has a dedicated mobile page
+Encoding,Responsive with AMP
+Encoding,AMP for responsive Page
+Encoding,No mobile configuration with AMP
+Encoding,AMP for no mobile configuration
+Encoding,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Encoding,AMP page as mobile self-referential
+Encoding,AMP page which self canonicalises
+Encoding,Separate Desktop with Meta Irregular Media Pixel Size
+Encoding,Separate Desktop with Response Header Alt
+Titles,Separate Desktop page with separate mobile and/or AMP
+Titles,Separate Desktop page with AMP page as AMP and Mobile
+Titles,Separate Desktop with different H1
+Titles,Separate Desktop with different title
+Titles,Separate Desktop with different wordcount
+Titles,Separate Desktop with different links in
+Titles,Separate Desktop with different links out
+Titles,Separate Desktop which links to a mobile page not on the mobile subdomain
+Titles,Separate Desktop with mobile and AMP which self canonicalises
+Titles,Separate Mobile page not on the mobile subdomain
+Titles,A dynamically served page
+Titles,A responsive page
+Titles,No mobile configuration
+Titles,Other desktop page linking to the same mobile pages as other desktop
+Titles,An AMP page which also has a dedicated mobile page
+Titles,Responsive with AMP
+Titles,AMP for responsive Page
+Titles,No mobile configuration with AMP
+Titles,AMP for no mobile configuration
+Titles,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Titles,AMP page as mobile self-referential
+Titles,AMP page which self canonicalises
+Titles,Separate Desktop with Meta Irregular Media Pixel Size
+Titles,Separate Desktop with Response Header Alt
+Robots Protocol,Separate Desktop page with separate mobile and/or AMP
+Robots Protocol,Separate Desktop page with AMP page as AMP and Mobile
+Robots Protocol,Separate Desktop with different H1
+Robots Protocol,Separate Desktop with different title
+Robots Protocol,Separate Desktop with different wordcount
+Robots Protocol,Separate Desktop with different links in
+Robots Protocol,Separate Desktop with different links out
+Robots Protocol,Separate Desktop which links to a mobile page not on the mobile subdomain
+Robots Protocol,Separate Desktop with mobile and AMP which self canonicalises
+Robots Protocol,Separate Mobile page not on the mobile subdomain
+Robots Protocol,A dynamically served page
+Robots Protocol,A responsive page
+Robots Protocol,No mobile configuration
+Robots Protocol,Other desktop page linking to the same mobile pages as other desktop
+Robots Protocol,An AMP page which also has a dedicated mobile page
+Robots Protocol,Responsive with AMP
+Robots Protocol,AMP for responsive Page
+Robots Protocol,No mobile configuration with AMP
+Robots Protocol,AMP for no mobile configuration
+Robots Protocol,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Robots Protocol,AMP page as mobile self-referential
+Robots Protocol,AMP page which self canonicalises
+Robots Protocol,Separate Desktop with Meta Irregular Media Pixel Size
+Robots Protocol,Separate Desktop with Response Header Alt
+Redirects,Separate Desktop page with separate mobile and/or AMP
+Redirects,Separate Desktop page with AMP page as AMP and Mobile
+Redirects,Separate Desktop with different H1
+Redirects,Separate Desktop with different title
+Redirects,Separate Desktop with different wordcount
+Redirects,Separate Desktop with different links in
+Redirects,Separate Desktop with different links out
+Redirects,Separate Desktop which links to a mobile page not on the mobile subdomain
+Redirects,Separate Desktop with mobile and AMP which self canonicalises
+Redirects,Separate Mobile page not on the mobile subdomain
+Redirects,A dynamically served page
+Redirects,A responsive page
+Redirects,No mobile configuration
+Redirects,Other desktop page linking to the same mobile pages as other desktop
+Redirects,An AMP page which also has a dedicated mobile page
+Redirects,Responsive with AMP
+Redirects,AMP for responsive Page
+Redirects,No mobile configuration with AMP
+Redirects,AMP for no mobile configuration
+Redirects,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Redirects,AMP page as mobile self-referential
+Redirects,AMP page which self canonicalises
+Redirects,Separate Desktop with Meta Irregular Media Pixel Size
+Redirects,Separate Desktop with Response Header Alt
+Links,Separate Desktop page with separate mobile and/or AMP
+Links,Separate Desktop page with AMP page as AMP and Mobile
+Links,Separate Desktop with different H1
+Links,Separate Desktop with different title
+Links,Separate Desktop with different wordcount
+Links,Separate Desktop with different links in
+Links,Separate Desktop with different links out
+Links,Separate Desktop which links to a mobile page not on the mobile subdomain
+Links,Separate Desktop with mobile and AMP which self canonicalises
+Links,Separate Mobile page not on the mobile subdomain
+Links,A dynamically served page
+Links,A responsive page
+Links,No mobile configuration
+Links,Other desktop page linking to the same mobile pages as other desktop
+Links,An AMP page which also has a dedicated mobile page
+Links,Responsive with AMP
+Links,AMP for responsive Page
+Links,No mobile configuration with AMP
+Links,AMP for no mobile configuration
+Links,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Links,AMP page as mobile self-referential
+Links,AMP page which self canonicalises
+Links,Separate Desktop with Meta Irregular Media Pixel Size
+Links,Separate Desktop with Response Header Alt
+URLs,Separate Desktop page with separate mobile and/or AMP
+URLs,Separate Desktop page with AMP page as AMP and Mobile
+URLs,Separate Desktop with different H1
+URLs,Separate Desktop with different title
+URLs,Separate Desktop with different wordcount
+URLs,Separate Desktop with different links in
+URLs,Separate Desktop with different links out
+URLs,Separate Desktop which links to a mobile page not on the mobile subdomain
+URLs,Separate Desktop with mobile and AMP which self canonicalises
+URLs,Separate Mobile page not on the mobile subdomain
+URLs,A dynamically served page
+URLs,A responsive page
+URLs,No mobile configuration
+URLs,Other desktop page linking to the same mobile pages as other desktop
+URLs,An AMP page which also has a dedicated mobile page
+URLs,Responsive with AMP
+URLs,AMP for responsive Page
+URLs,No mobile configuration with AMP
+URLs,AMP for no mobile configuration
+URLs,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+URLs,AMP page as mobile self-referential
+URLs,AMP page which self canonicalises
+URLs,Separate Desktop with Meta Irregular Media Pixel Size
+URLs,Separate Desktop with Response Header Alt
+Canonical Tags,Separate Desktop page with separate mobile and/or AMP
+Canonical Tags,Separate Desktop page with AMP page as AMP and Mobile
+Canonical Tags,Separate Desktop with different H1
+Canonical Tags,Separate Desktop with different title
+Canonical Tags,Separate Desktop with different wordcount
+Canonical Tags,Separate Desktop with different links in
+Canonical Tags,Separate Desktop with different links out
+Canonical Tags,Separate Desktop which links to a mobile page not on the mobile subdomain
+Canonical Tags,Separate Desktop with mobile and AMP which self canonicalises
+Canonical Tags,Separate Mobile page not on the mobile subdomain
+Canonical Tags,A dynamically served page
+Canonical Tags,A responsive page
+Canonical Tags,No mobile configuration
+Canonical Tags,Other desktop page linking to the same mobile pages as other desktop
+Canonical Tags,An AMP page which also has a dedicated mobile page
+Canonical Tags,Responsive with AMP
+Canonical Tags,AMP for responsive Page
+Canonical Tags,No mobile configuration with AMP
+Canonical Tags,AMP for no mobile configuration
+Canonical Tags,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Canonical Tags,AMP page as mobile self-referential
+Canonical Tags,AMP page which self canonicalises
+Canonical Tags,Separate Desktop with Meta Irregular Media Pixel Size
+Canonical Tags,Separate Desktop with Response Header Alt
+Status Codes,Separate Desktop page with separate mobile and/or AMP
+Status Codes,Separate Desktop page with AMP page as AMP and Mobile
+Status Codes,Separate Desktop with different H1
+Status Codes,Separate Desktop with different title
+Status Codes,Separate Desktop with different wordcount
+Status Codes,Separate Desktop with different links in
+Status Codes,Separate Desktop with different links out
+Status Codes,Separate Desktop which links to a mobile page not on the mobile subdomain
+Status Codes,Separate Desktop with mobile and AMP which self canonicalises
+Status Codes,Separate Mobile page not on the mobile subdomain
+Status Codes,A dynamically served page
+Status Codes,A responsive page
+Status Codes,No mobile configuration
+Status Codes,Other desktop page linking to the same mobile pages as other desktop
+Status Codes,An AMP page which also has a dedicated mobile page
+Status Codes,Responsive with AMP
+Status Codes,AMP for responsive Page
+Status Codes,No mobile configuration with AMP
+Status Codes,AMP for no mobile configuration
+Status Codes,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Status Codes,AMP page as mobile self-referential
+Status Codes,AMP page which self canonicalises
+Status Codes,Separate Desktop with Meta Irregular Media Pixel Size
+Status Codes,Separate Desktop with Response Header Alt
+Social Tags,Separate Desktop page with separate mobile and/or AMP
+Social Tags,Separate Desktop page with AMP page as AMP and Mobile
+Social Tags,Separate Desktop with different H1
+Social Tags,Separate Desktop with different title
+Social Tags,Separate Desktop with different wordcount
+Social Tags,Separate Desktop with different links in
+Social Tags,Separate Desktop with different links out
+Social Tags,Separate Desktop which links to a mobile page not on the mobile subdomain
+Social Tags,Separate Desktop with mobile and AMP which self canonicalises
+Social Tags,Separate Mobile page not on the mobile subdomain
+Social Tags,A dynamically served page
+Social Tags,A responsive page
+Social Tags,No mobile configuration
+Social Tags,Other desktop page linking to the same mobile pages as other desktop
+Social Tags,An AMP page which also has a dedicated mobile page
+Social Tags,Responsive with AMP
+Social Tags,AMP for responsive Page
+Social Tags,No mobile configuration with AMP
+Social Tags,AMP for no mobile configuration
+Social Tags,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Social Tags,AMP page as mobile self-referential
+Social Tags,AMP page which self canonicalises
+Social Tags,Separate Desktop with Meta Irregular Media Pixel Size
+Social Tags,Separate Desktop with Response Header Alt
+Content,Separate Desktop page with separate mobile and/or AMP
+Content,Separate Desktop page with AMP page as AMP and Mobile
+Content,Separate Desktop with different H1
+Content,Separate Desktop with different title
+Content,Separate Desktop with different wordcount
+Content,Separate Desktop with different links in
+Content,Separate Desktop with different links out
+Content,Separate Desktop which links to a mobile page not on the mobile subdomain
+Content,Separate Desktop with mobile and AMP which self canonicalises
+Content,Separate Mobile page not on the mobile subdomain
+Content,A dynamically served page
+Content,A responsive page
+Content,No mobile configuration
+Content,Other desktop page linking to the same mobile pages as other desktop
+Content,An AMP page which also has a dedicated mobile page
+Content,Responsive with AMP
+Content,AMP for responsive Page
+Content,No mobile configuration with AMP
+Content,AMP for no mobile configuration
+Content,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Content,AMP page as mobile self-referential
+Content,AMP page which self canonicalises
+Content,Separate Desktop with Meta Irregular Media Pixel Size
+Content,Separate Desktop with Response Header Alt
+Other,Separate Desktop page with separate mobile and/or AMP
+Other,Separate Desktop page with AMP page as AMP and Mobile
+Other,Separate Desktop with different H1
+Other,Separate Desktop with different title
+Other,Separate Desktop with different wordcount
+Other,Separate Desktop with different links in
+Other,Separate Desktop with different links out
+Other,Separate Desktop which links to a mobile page not on the mobile subdomain
+Other,Separate Desktop with mobile and AMP which self canonicalises
+Other,Separate Mobile page not on the mobile subdomain
+Other,A dynamically served page
+Other,A responsive page
+Other,No mobile configuration
+Other,Other desktop page linking to the same mobile pages as other desktop
+Other,An AMP page which also has a dedicated mobile page
+Other,Responsive with AMP
+Other,AMP for responsive Page
+Other,No mobile configuration with AMP
+Other,AMP for no mobile configuration
+Other,"An AMP page with no canonical (or self-ref, and no inbound AMP links"
+Other,AMP page as mobile self-referential
+Other,AMP page which self canonicalises
+Other,Separate Desktop with Meta Irregular Media Pixel Size
+Other,Separate Desktop with Response Header Alt

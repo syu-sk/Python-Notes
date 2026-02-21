@@ -1,0 +1,32 @@
+Donut Menu: 
+
+    -----------------------------
+    id 0001: Cake
+    -----------------------------
+    Batters:
+    ['Regular', 'Chocolate', 'Blueberry', "Devil's Food"]
+    
+    Toppings:
+    ['None', 'Glazed', 'Sugar', 'Powdered Sugar', 'Chocolate with Sprinkles', 'Chocolate', 'Maple']
+    -----------------------------
+                
+    -----------------------------
+    id 0002: Raised
+    -----------------------------
+    Batters:
+    ['Regular']
+    
+    Toppings:
+    ['None', 'Glazed', 'Sugar', 'Chocolate', 'Maple']
+    -----------------------------
+                
+    -----------------------------
+    id 0003: Old Fashioned
+    -----------------------------
+    Batters:
+    ['Regular', 'Chocolate']
+    
+    Toppings:
+    ['None', 'Glazed', 'Chocolate', 'Maple']
+    -----------------------------
+                
